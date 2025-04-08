@@ -82,4 +82,4 @@ python CrabCrypt.py
   <img width="60%" src="https://github.com/spyboy-productions/CrabCrypt/blob/main/demo.png" />
 </p>
 
-<h4 align="center"> Проект [spyboy-productions](https://github.com/spyboy-productions)! ⭐️ </h4>
+<h4 align="center"> Проект <a href="https://github.com/spyboy-productions">spyboy-productions</a> ! ⭐️ </h4>
